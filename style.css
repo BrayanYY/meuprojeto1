@@ -1,0 +1,64 @@
+#hero img {
+  margin-bottom: 72px;
+}
+
+#hero {
+  width: 592px;
+  margin: 0 auto 72px;
+}
+
+body { 
+  text-align: center;
+  background: white;
+  margin: 0px;
+}
+
+
+h1 {
+  font-family: 'Metal Mania', 'cursive';
+  font-size: 49px;
+
+  margin-bottom: 32px;
+}
+
+a {
+  font-family: 'Open Sans', 'sans-serif';
+  font-style: bold;
+}
+
+
+span, a {
+  color: #FF0000;
+  padding: 3px;
+}
+
+p, #foother {
+  font-family: 'Open Sans', 'sans-serif';
+  color: #7D7987;
+  font-size: 14px;
+  line-heigth: 28px;
+  font-style: bold;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+#foother a + a {
+  margin-left: 28px;
+
+}
+
+#line {
+  width: 568px;
+  heigth: 0px;
+  border: 1px red solid;
+  margin: 0 auto 8px;
+  
+}
+
+#balls {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
